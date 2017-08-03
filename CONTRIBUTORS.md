@@ -20,3 +20,4 @@ Where:
 * **[François Vincent](https://github.com/poussinou)**<br/>~° French translation
 * **[Danilo Raffaelli](https://crowdin.com/profile/Daraf)**<br/>~° Italian translation
 * **[pskosinski](email AT pskosinski DOT pl)**<br/>~° Polish translation
+* **[Victor Fisker](https://discord.gg/49dwg58)**<br/>;~° Danish translation
